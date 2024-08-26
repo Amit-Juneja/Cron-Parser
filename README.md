@@ -81,7 +81,13 @@ nvm install node
 git clone https://github.com/Amit-Juneja/Cron-Parser.git
 cd Cron-Parser
 ```
-
 3. Install Dependencies: Run npm install to install all required dependencies.
 
 4. Run Tests: Ensure everything is working correctly by running the tests with npm test.
+
+
+## Screen Recording of Running Solution & Tests
+
+
+https://github.com/user-attachments/assets/37bff044-6469-49bb-b051-99c69fda558c
+
